@@ -37,15 +37,25 @@ Vercel - Platform deployment untuk Next.js applications
 
 ## Struktur Project 
 berkahdua-website/
+
 ├── app/
+
 │   ├── page.tsx              # Halaman utama
+
 │   ├── layout.tsx            # Root layout
+
 │   └── globals.css           # Global styles
+
 ├── public/
+
 │   └── images/               # Folder untuk gambar assets
+
 ├── next.config.js            # Konfigurasi Next.js
+
 ├── tailwind.config.ts        # Konfigurasi Tailwind CSS
+
 ├── tsconfig.json             # Konfigurasi TypeScript
+
 └── package.json              # Dependencies dan scripts
 
 Cara Menjalankan di Local
